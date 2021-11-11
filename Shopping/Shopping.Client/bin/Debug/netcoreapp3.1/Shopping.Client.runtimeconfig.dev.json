@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/loginuser/.dotnet/store/|arch|/|tfm|",
+      "/home/loginuser/.nuget/packages"
+    ]
+  }
+}
