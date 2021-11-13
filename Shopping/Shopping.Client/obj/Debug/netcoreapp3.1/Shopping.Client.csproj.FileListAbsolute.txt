@@ -35,3 +35,4 @@
 /home/loginuser/git/run-devops/Shopping/Shopping.Client/obj/Debug/netcoreapp3.1/Shopping.Client.pdb
 /home/loginuser/git/run-devops/Shopping/Shopping.Client/obj/Debug/netcoreapp3.1/Shopping.Client.genruntimeconfig.cache
 /home/loginuser/git/run-devops/Shopping/Shopping.Client/obj/Debug/netcoreapp3.1/Shopping.Client.csproj.CopyComplete
+/home/loginuser/git/run-devops/Shopping/Shopping.Client/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
